@@ -1,10 +1,10 @@
 {
-  "newFileLocation": "root",
-  "newFileFolderPath": "20 Dataview Queries",
-  "attachmentFolderPath": "00 Meta/attachments",
-  "promptDelete": false,
-  "showFrontmatter": true,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "propertiesInDocument": "hidden",
+  "foldIndent": false,
+  "spellcheck": false,
+  "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "spellcheckLanguages": null,
-  "spellcheck": true
+  "showInlineTitle": false
 }
